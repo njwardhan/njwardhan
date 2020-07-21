@@ -1,7 +1,7 @@
-## Hey there 👋
+## Hey there :) 
 
 - I am an engineering undergrad at [University of Delhi](https://ducic.ac.in/), India. 
-- Currently working on my Google Summer of Code project with [Colour Science.](https://www.colour-science.org/)
+- Currently working on my Google Summer of Code [project](https://summerofcode.withgoogle.com/projects/#6051607998889984) with [Colour Science.](https://www.colour-science.org/)
 
 ### Contact me at:
 <a href="https://twitter.com/njwardhan">
