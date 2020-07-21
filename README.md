@@ -1,19 +1,18 @@
 ## Hey there! 
 
-<a href="https://twitter.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/njwardhan">
+  <img align="left" alt="NJW's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/njwardhan/">
+  <img align="left" alt="NJW's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AjayKhalsa">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="njwardhan@gmail.com">
+  <img align="left" alt="NJW's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
 
-### I am Nishant Joywardhan
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+### This is Nishant Joywardhan
+- IT and Maths undergrad at [Cluster Innovation Centre, University of Delhi.](https://ducic.ac.in/)
+- ML & Open Source enthusiast. 
+- Currently working on my Google Summer of Code project with [Colour Science](https://www.colour-science.org/)
 
