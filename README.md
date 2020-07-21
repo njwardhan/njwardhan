@@ -1,4 +1,4 @@
-## Hey there! 
+## Hey there 👋
 
 ### This is Nishant Joywardhan :)
 - IT and Maths undergrad at [DUCIC.](https://ducic.ac.in/)
