@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/njwardhan/">
   <img align="left" alt="NJW's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="njwardhan@gmail.com">
+<a href="mailto:njwardhan@gmail.com">
   <img align="left" alt="NJW's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
