@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ### This is Nishant Joywardhan :)
-- IT and Maths undergrad at [DUCIC.](https://ducic.ac.in/)
+- IT and Maths undergrad at [DUCIC](https://ducic.ac.in/), India.
 - ML & Open Source enthusiast. 
 - Currently working on my Google Summer of Code project with [Colour Science.](https://www.colour-science.org/)
 
