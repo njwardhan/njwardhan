@@ -11,8 +11,8 @@
 </a>
 <br />
 
-### This is Nishant Joywardhan
-- IT and Maths undergrad at [Cluster Innovation Centre, University of Delhi.](https://ducic.ac.in/)
+### This is Nishant Joywardhan :)
+- IT and Maths undergrad at [DUCIC.](https://ducic.ac.in/)
 - ML & Open Source enthusiast. 
-- Currently working on my Google Summer of Code project with [Colour Science](https://www.colour-science.org/)
+- Currently working on my Google Summer of Code project with [Colour Science.](https://www.colour-science.org/)
 
