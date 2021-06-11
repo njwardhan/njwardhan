@@ -2,6 +2,7 @@
 
 - I am an engineering undergrad at [University of Delhi](https://ducic.ac.in/), India.
 - Google Summer of Code 2020: Student Developer for [Colour Science](https://www.colour-science.org/), [NumFOCUS](https://numfocus.org/).
+- 666
 
 ### Contact me at:
 <a href="https://twitter.com/njwardhan">
